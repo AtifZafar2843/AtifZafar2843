@@ -4,7 +4,7 @@ I'm a passionate **Frontend Developer** from Aligarh 🇮🇳, who loves buildin
 Currently I'm learning React.js and working on amazing frontend projects.
 
 ![Profile views](https://komarev.com/ghpvc/?username=AtifZafar2843&label=Profile%20views&color=0e75b6&style=flat)  
-[![Follow me](https://img.shields.io/twitter/follow/AtifZafar2843?style=social)](https://twitter.com/AtifZafar2843)
+[![Follow me](https://img.shields.io/twitter/follow/tgatifzafar?style=social)](https://twitter.com/tgatifzafar)
 
 ---
 
