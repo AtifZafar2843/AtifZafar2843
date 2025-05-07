@@ -13,7 +13,7 @@ Currently I'm learning React.js and working on amazing frontend projects.
 - 🎯 I’m currently working on improving my React skills.  
 - 🌱 Always curious to learn new web technologies.  
 - 🤝 Open to collaborations on frontend projects or freelancing work.  
-- 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/atif-zafar-2b3040249/) or [Email](mailto:atifzafar2843@gmail.com)
+- 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/atif-zafar-2b3040249/) or [Email](mailto:tgatifzafar@gmail.com)
 
 ---
 
