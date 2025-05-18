@@ -43,7 +43,7 @@ Currently I'm learning React.js and working on amazing frontend projects.
 
 ### 🎯 Featured Projects
 
-- [💼 My Portfolio Website](https://atifzafar2843.github.io/my-portfolio/)  
+- [💼 My Portfolio Website](https://atifzafar2843.github.io/my-portfolio2/)  
 - [📦 JavaScript Learning Repo](https://github.com/AtifZafar2843/JavaScript-Learning)
 
 ---
