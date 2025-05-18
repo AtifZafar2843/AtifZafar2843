@@ -1,54 +1,60 @@
-# Hi there 👋, I'm Atif Zafar
+# 👋 Hi there, I'm Atif Zafar
 
-I'm a passionate **Frontend Developer** from Aligarh 🇮🇳, who loves building beautiful and interactive websites.  
-Currently I'm learning React.js and working on amazing frontend projects.
+🎯 **Frontend Developer** | 📍 Aligarh, India 🇮🇳  
+Passionate about crafting interactive and user-friendly web interfaces. Currently diving deep into React.js and building real-world projects to enhance user experiences.
 
-![Profile views](https://komarev.com/ghpvc/?username=AtifZafar2843&label=Profile%20views&color=0e75b6&style=flat)  
-[![Follow me](https://img.shields.io/twitter/follow/tgatifzafar?style=social)](https://twitter.com/tgatifzafar)
-
----
-
-### 💼 About Me
-
-- 🎯 I’m currently working on improving my React skills.  
-- 🌱 Always curious to learn new web technologies.  
-- 🤝 Open to collaborations on frontend projects or freelancing work.  
-- 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/atif-zafar-2b3040249/) or [Email](mailto:tgatifzafar@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=AtifZafar2843&label=Profile%20views&color=0e75b6&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tgatifzafar?style=social)](https://twitter.com/tgatifzafar)
 
 ---
 
-### 💻 Languages & Tools
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="40"/>
-</p>
+- 🌱 Currently expanding my skills in **React.js** and modern frontend technologies.
+- 🛠️ Building projects that solve real-world problems and enhance user engagement.
+- 🤝 Open to collaboration on frontend projects and freelance opportunities.
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/atif-zafar-2b3040249/) or via [Email](mailto:tgatifzafar@gmail.com).
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 ![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifZafar2843&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifZafar2843&layout=compact&theme=radical)
-
----
-
-### 🎯 Featured Projects
-
-- [💼 My Portfolio Website](https://atifzafar2843.github.io/my-portfolio2/)  
-- [📦 JavaScript Learning Repo](https://github.com/AtifZafar2843/JavaScript-Learning)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifZafar2843&layout=compact&theme=radical)
 
 ---
 
-### 😄 Let's Connect!
+## 🌟 Featured Projects
+
+### [💼 My Portfolio Website](https://atifzafar2843.github.io/my-portfolio2/)
+A showcase of my skills, projects, and contact information. Built with HTML, CSS, and JavaScript to provide a responsive and interactive user experience.
+
+### [📘 JavaScript Learning Repository](https://github.com/AtifZafar2843/JavaScript-Learning)
+A collection of JavaScript exercises and mini-projects documenting my journey in mastering JavaScript fundamentals.
+
+### [🎨 Obys Agency Project](https://github.com/AtifZafar2843/Obys-Agency-Project)
+A frontend project replicating the design of Obys Agency's website, focusing on layout, animations, and responsive design.
+
+### [👗 Premier Model Management Project](https://github.com/AtifZafar2843/Premier-model-management-project)
+A static website project inspired by Premier Model Management, emphasizing clean design and responsive layouts.
+
+---
+
+## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/atif-zafar-2b3040249/)
 - [Twitter](https://twitter.com/tgatifzafar)
@@ -56,4 +62,4 @@ Currently I'm learning React.js and working on amazing frontend projects.
 
 ---
 
-<img align="right" alt="GIF" src="https://cdn.pixabay.com/animation/2022/10/11/02/52/02-52-53-154_512.gif" width="300"/>
+![Coding](https://cdn.pixabay.com/animation/2022/10/11/02/52/02-52-53-154_512.gif)
